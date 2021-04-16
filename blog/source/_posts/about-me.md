@@ -3,7 +3,7 @@ title: About Me
 academia: true
 ---
 
-# About Me
+# [About Me](#About-Me)
 
 I'm a fourth-year Ph.D. student at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.S. in Information Security from Shanghai Jiao Tong University in 2017.
 
@@ -11,20 +11,20 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 ---
 
-# Education
+# [Education](#Education)
 
-* University of Chicago (2017-Present)
+* **University of Chicago (2017-Present)**
     * Ph.D. Student, Department of Computer Science
-* Shanghai Jiao Tong University (2013-2017)
+* **Shanghai Jiao Tong University (2013-2017)**
     * B.S. of Information Security
 
 ---
 
-# Publication
+# [Publications](#Publications)
 
 * [**SoK: Context Sensing for Access Control in the Adversarial Home IoT**](/papers/eurosp21-sok.pdf)
     __**Weijia He**__, Valerie Zhao, Olivia Morkved, Sabeeka Siddiqui, Earlence Fernandes, Josiah Hester, Blase Ur.
-    *Proceedings of the 6th IEEE European Symposium on Security and Privacy. Vienna, Austria, September 2021.*
+    *Proceedings of the 6th IEEE European Symposium on Security and Privacy. Online, September 2021.*
 * [**Trace2TAP: Synthesizing Trigger-Action Programs From Traces of Behavior**](/papers/trace2tap.pdf)
     Lefan Zhang, __**Weijia He**__, Olivia Morkved, Valerie Zhao, Michael L. Littman, Shan Lu, Blase Ur.
     *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4, 3, Article 104 (IMWUT / UbiComp). Online, September 2020.*
@@ -46,8 +46,9 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 ---
 
-# Services
+# [Services](#Services)
 
+* **Publication Chair**, [The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)](https://www.petsymposium.org/cfp22.php)
 * **Poster jury**, [The 17th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2021/call-for-posters), 2021.
 * **External reviewer**, [The 6th IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2021/cfp.html), 2021
 * **Artifact Evaluation Committee (AEC) Member**, [The 30th Usenix Security Symposium](https://www.usenix.org/conference/usenixsecurity21/call-for-artifacts), 2021.
@@ -59,7 +60,7 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 ---
 
-# Awards
+# [Awards](#Awards)
 
 * 2019 IEEE Symposium on Security and Privacy Student Travel Grant ($1,250).
 * 2018 Usenix Security Student Grant ($745).
@@ -67,7 +68,7 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 ---
 
-# Teaching Experience
+# [Teaching Experiences](#Teaching-Experiences)
 
 * **Course Assistant** for [Machine Learning for Cybersecurity](https://voices.uchicago.edu/professional/machine-learning-for-cybersecurity/)
 * **Teaching Assistant** for [Introduction to Security (CMSC 23200 / CMSC 33200): 2021](https://classes.cs.uchicago.edu/archive/2021/winter/23200-1/)
