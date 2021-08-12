@@ -5,9 +5,9 @@ academia: true
 
 # [About Me](#About-Me)
 
-I'm a fourth-year Ph.D. student at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.S. in Information Security from Shanghai Jiao Tong University in 2017.
+I'm a fifth-year Ph.D. student at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.S. in Information Security from Shanghai Jiao Tong University in 2017.
 
-My main research interest is about security and privacy issues in ubiquitous computing systems. 
+My main research interest is about security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (Usenix Security'18) and sensing techniques (EuroSP'21). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
 
 ---
 
