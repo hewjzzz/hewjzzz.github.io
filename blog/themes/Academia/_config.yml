@@ -50,7 +50,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV(2021.06).pdf
+  dir: /attaches/CV(2022.03).pdf
   description: CV
 
 # Box-shadow

@@ -9,6 +9,8 @@ I'm a fifth-year Ph.D. student at University of Chicago, advised by Professor [B
 
 My main research interest is about security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (Usenix Security'18) and sensing techniques (EuroSP'21). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
 
+I am currently looking for postdoc positions! [Research Statement](/docs/Research_Statement(2022.03).pdf) 
+
 ---
 
 # [Education](#Education)
@@ -48,8 +50,9 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 # [Services](#Services)
 
-* **Publication Chair**, [The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)](https://www.petsymposium.org/cfp22.php)
-* **Poster jury**, [The 17th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2021/call-for-posters), 2021.
+* **PC Member**, The 23rd Privacy Enhancing Technologies Symposium (PETS 2023)
+* **Publication Chair**, [The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)](https://www.petsymposium.org/cfp22.php) and 2023.
+* **Poster jury**, Symposium on Usable Privacy and Security (SOUPS), [2021](https://www.usenix.org/conference/soups2021/call-for-posters), [2022](https://www.usenix.org/conference/soups2022/call-for-posters).
 * **External reviewer**, [The 6th IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2021/cfp.html), 2021
 * **Artifact Evaluation Committee (AEC) Member**, [The 30th Usenix Security Symposium](https://www.usenix.org/conference/usenixsecurity21/call-for-artifacts), 2021.
 * **Shadow PC member**, [The 41st IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2020/shadowpc.html), 2020.
@@ -62,6 +65,8 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 # [Awards](#Awards)
 
+* Siebel Scholar, class of 2022 ($35,000)
+* Finalist of 2020 NortonLifeLock Graduate Fellowship
 * 2019 IEEE Symposium on Security and Privacy Student Travel Grant ($1,250).
 * 2018 Usenix Security Student Grant ($745).
 * 2018 SOUPS Student Grant ($770).
@@ -72,7 +77,7 @@ My main research interest is about security and privacy issues in ubiquitous com
 
 * **Instructor** for *Introduction to Computer Science (CMSC 15100): 2021*
 * **Course Assistant** for [Machine Learning for Cybersecurity](https://voices.uchicago.edu/professional/machine-learning-for-cybersecurity/)
-* **Teaching Assistant** for [Introduction to Security (CMSC 23200 / CMSC 33200): 2021](https://classes.cs.uchicago.edu/archive/2021/winter/23200-1/)
+* **Teaching Assistant** for Introduction to Security (CMSC 23200 / CMSC 33200): [2021](https://classes.cs.uchicago.edu/archive/2021/winter/23200-1/), [2022](https://classes.cs.uchicago.edu/archive/2022/winter/23200-1/)
 * **Teaching Assistant** for [Ethics, Fairness, Responsibility, and Privacy in Data Science (CMSC 25900): 2020](https://classes.cs.uchicago.edu/archive/2020/spring/25900-1/index.html).
 * **Instructor** for the [superpowHer: compileHer Tech Capstone 2019](https://compileher.com/)
 * **Teaching Assistant** for Usable Security and Privacy (CMSC 23210 / CMSC 33210): [2018](https://super.cs.uchicago.edu/usable18/), [2019](https://super.cs.uchicago.edu/usable19/)
