@@ -9,7 +9,7 @@ I'm a fifth-year Ph.D. student at University of Chicago, advised by Professor [B
 
 My main research interest is about security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (Usenix Security'18) and sensing techniques (EuroSP'21). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
 
-I am currently looking for postdoc positions! [Research Statement](/docs/Research_Statement(2022.03).pdf) 
+**I am currently looking for postdoc positions! Feel free to contact me if you would like to chat!** [Research Statement](/docs/Research_Statement(2022.03).pdf) 
 
 ---
 
