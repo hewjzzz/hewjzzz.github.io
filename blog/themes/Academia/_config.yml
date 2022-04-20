@@ -14,7 +14,7 @@ menu:
   About: /
   Education: /#Education
   Publications: /#Publications
-  Services: /#Services
+  Service: /#Service
   Awards: /#Awards
   Teaching: /#Teaching
 
@@ -50,7 +50,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV(2022.03).pdf
+  dir: /attaches/CV(2022.04).pdf
   description: CV
 
 # Box-shadow
