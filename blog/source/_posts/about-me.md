@@ -9,20 +9,19 @@ venue { color: #287dab; font-weight: bold; }
 
 # [About Me](#About-Me)
 
-I'm a fifth-year Ph.D. student at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.S. in Information Security from Shanghai Jiao Tong University in 2017.
+I am a Postdoctoral Researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/).
+Before that, I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.Eng. in Information Security from Shanghai Jiao Tong University in 2017.
 
 My main research interests relate to security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (USENIX Security 2018) and sensing techniques (EuroS&P 2021). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
-
-**I am currently looking for postdoc positions! Feel free to contact me if you would like to chat!** [Research Statement](/docs/Research_Statement(2022.03).pdf) 
 
 ---
 
 # [Education](#Education)
 
-* **University of Chicago (2017-Present)**
-    * Ph.D. Student, Department of Computer Science
+* **University of Chicago (2017-2022)**
+    * Ph.D. of Computer Science, Department of Computer Science
 * **Shanghai Jiao Tong University (2013-2017)**
-    * B.S. of Information Security
+    * B.Eng. of Information Security
 
 ---
 
@@ -76,6 +75,7 @@ My main research interests relate to security and privacy issues in ubiquitous c
 
 # [Teaching Experiences](#Teaching)
 
+* **Lab Coordinator** for [*Data Science Institute Summer Lab, 2022*](https://datascience.uchicago.edu/engage/summerlab/)
 * **Instructor** for *Introduction to Computer Science (CMSC 15100): 2021*
 * **Course Assistant** for [*Machine Learning for Cybersecurity*](https://voices.uchicago.edu/professional/machine-learning-for-cybersecurity/)
 * **Teaching Assistant** for *Introduction to Security (CMSC 23200 / CMSC 33200)*: [2021](https://classes.cs.uchicago.edu/archive/2021/winter/23200-1/), [2022](https://classes.cs.uchicago.edu/archive/2022/winter/23200-1/)
