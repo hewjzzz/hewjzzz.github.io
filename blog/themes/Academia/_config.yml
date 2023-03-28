@@ -36,7 +36,7 @@ social_links:
   # fab fa-weibo: /
   # fab fa-weixin: /
   # fab fa-qq: /
-  fas fa-envelope: mailto:hewj@uchicago.edu
+  fas fa-envelope: mailto:weijia.he@dartmouth.edu
   # fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
@@ -50,7 +50,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV(2022.04).pdf
+  dir: /attaches/CV(2023.03).pdf
   description: CV
 
 # Box-shadow
