@@ -30,7 +30,7 @@ My main research interests relate to security and privacy issues in ubiquitous c
 * <venue>[PETS 2024]</venue> **Contextualizing Interpersonal Data Sharing in Smart Homes**
     __**Weijia He**__, Nathan Reitinger, Atheer Almogbil, Yi-Shyuan Chiang, Timothy Pierson, David Kotz.
     *Proceedings on Privacy Enhancing Technologies Symposium (PETS 2024). Bristol, UK, July 2024.*
-* <venue>[WPES 2023]</venue> **The HandyTech’s Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**
+* <venue>[WPES 2023]</venue> **The HandyTech's Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**
     Denise Anthony, Carl A. Gunter, __**Weijia He**__, Mounib Khanafer, Susan Landau, Ravindra Mangar, Nathan Reitinger.
     *Workshop on Privacy in the Electronic Society (WPES 2023). Copenhagen, Denmark, November, 2023.*
 * <venue>[EuroS&P 2021]</venue> [**SoK: Context Sensing for Access Control in the Adversarial Home IoT**](/papers/eurosp21-sok.pdf)
