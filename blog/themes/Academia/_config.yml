@@ -50,8 +50,8 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV(2023.03).pdf
-  description: CV
+  dir: /attaches/CV(2023.11).pdf
+  description: CV(2023.11)
 
 # Box-shadow
 # display box-shadow on page or not
