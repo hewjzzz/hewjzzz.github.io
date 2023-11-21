@@ -10,9 +10,13 @@ venue { color: #287dab; font-weight: bold; }
 # [About Me](#About-Me)
 
 I am a Postdoctoral Researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/).
-Before that, I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.Eng. in Information Security from Shanghai Jiao Tong University in 2017.
+Before that, I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.Eng. in Cybersecurity from Shanghai Jiao Tong University in 2017.
 
-My main research interests relate to security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (USENIX Security 2018) and sensing techniques (EuroS&P 2021). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
+My main research interests relate to security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (USENIX Security 2018, PETS 2024) and sensing techniques (EuroS&P 2021). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
+
+
+
+__I am on the academic job market this year, looking for tenure-track faculty positions. If you are interested in talking with me, please don't hesitate to send me an email. :)__
 
 ---
 
@@ -27,7 +31,7 @@ My main research interests relate to security and privacy issues in ubiquitous c
 
 # [Publications](#Publications)
 
-* <venue>[PETS 2024]</venue> **Contextualizing Interpersonal Data Sharing in Smart Homes**
+* <venue>[PETS 2024]</venue> **Contextualizing Interpersonal Data Sharing in Smart Homes** [Paper forthcoming]
     __**Weijia He**__, Nathan Reitinger, Atheer Almogbil, Yi-Shyuan Chiang, Timothy Pierson, David Kotz.
     *Proceedings on Privacy Enhancing Technologies Symposium (PETS 2024). Bristol, UK, July 2024.*
 * <venue>[WPES 2023]</venue> **The HandyTech's Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**
@@ -59,13 +63,15 @@ My main research interests relate to security and privacy issues in ubiquitous c
 
 # [Service](#Service)
 
-* **PC Member**, The 23rd Privacy Enhancing Technologies Symposium (PETS 2023)
-* **Publication Chair**, [The 22nd Privacy Enhancing Technologies Symposium (PETS 2022)](https://www.petsymposium.org/cfp22.php) and 2023.
-* **Poster jury**, Symposium on Usable Privacy and Security (SOUPS), [2021](https://www.usenix.org/conference/soups2021/call-for-posters), [2022](https://www.usenix.org/conference/soups2022/call-for-posters).
-* **Artifact Evaluation Committee (AEC) Member**, Usenix Security Symposium, [2021](https://www.usenix.org/conference/usenixsecurity21/call-for-artifacts), 2022.
+* **PC Member**, The Privacy Enhancing Technologies Symposium: [2024](https://petsymposium.org/cfp24.php) and [2023](https://petsymposium.org/cfp23.php).
+* **Publication Chair**, The Privacy Enhancing Technologies Symposium: [2023](https://petsymposium.org/cfp23.php) and [2022](https://www.petsymposium.org/cfp22.php).
+* **PC Member**, Workshop on Security and Privacy in Standardized IoT (SDIoTSec): [2024](https://www.ndss-symposium.org/ndss2024/co-located-events/sdiotsec/leadership/)
+* **PC Member**, Symposium on Usable Security (USEC) 2023 Program: [2024](https://www.ndss-symposium.org/ndss2024/co-located-events/usec/leadership/) and [2023](https://www.usablesecurity.net/USEC/usec23/).
+* **Poster jury**, Symposium on Usable Privacy and Security (SOUPS): [2021](https://www.usenix.org/conference/soups2021/call-for-posters), [2022](https://www.usenix.org/conference/soups2022/call-for-posters).
+* **Artifact Evaluation Committee (AEC) Member**, Usenix Security Symposium: [2021](https://www.usenix.org/conference/usenixsecurity21/call-for-artifacts), 2022.
 * **Shadow PC member**, [The 41st IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2020/shadowpc.html), 2020.
 * **PC member**, ["Ubiquitous Privacy: Research and Design for Mobile and IoT Platforms" - The Networked Privacy Workshop at CSCW 2019](https://privacydesigncscw2019.wordpress.com/).
-* **PC member**, The 4th European Workshop on Usable Security, [2019](https://eusec.cs.uchicago.edu/), [2020](https://eusec20.cs.uchicago.edu/).
+* **PC member**, The 4th European Workshop on Usable Security: [2020](https://eusec20.cs.uchicago.edu/) and [2019](https://eusec.cs.uchicago.edu/).
 
 ---
 
