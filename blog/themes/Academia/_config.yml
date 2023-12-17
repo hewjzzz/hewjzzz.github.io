@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/my-profile.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Weijia He (何唯嘉)'
-author_bio: 'Security Researcher in IoT (last updated: 11/21/2023)'
+author_bio: 'Security Researcher in IoT (last updated: 12/17/2023)'
 
 since: 2020
 
