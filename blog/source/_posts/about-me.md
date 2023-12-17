@@ -78,8 +78,8 @@ __I am on the academic job market this year, looking for tenure-track faculty po
 * **Publication Chair**, The Privacy Enhancing Technologies Symposium: [2023](https://petsymposium.org/cfp23.php) and [2022](https://www.petsymposium.org/cfp22.php).
 * **PC Member**, Workshop on Security and Privacy in Standardized IoT (SDIoTSec): [2024](https://www.ndss-symposium.org/ndss2024/co-located-events/sdiotsec/leadership/)
 * **PC Member**, Symposium on Usable Security (USEC) 2023 Program: [2024](https://www.ndss-symposium.org/ndss2024/co-located-events/usec/leadership/) and [2023](https://www.usablesecurity.net/USEC/usec23/).
-* **Poster jury**, Symposium on Usable Privacy and Security (SOUPS): [2021](https://www.usenix.org/conference/soups2021/call-for-posters), [2022](https://www.usenix.org/conference/soups2022/call-for-posters).
-* **Artifact Evaluation Committee (AEC) Member**, Usenix Security Symposium: [2021](https://www.usenix.org/conference/usenixsecurity21/call-for-artifacts), 2022.
+* **Poster jury**, Symposium on Usable Privacy and Security (SOUPS): [2022](https://www.usenix.org/conference/soups2022/call-for-posters), [2021](https://www.usenix.org/conference/soups2021/call-for-posters).
+* **Artifact Evaluation Committee (AEC) Member**, Usenix Security Symposium: 2022, [2021](https://www.usenix.org/conference/usenixsecurity21/call-for-artifacts).
 * **Shadow PC member**, [The 41st IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2020/shadowpc.html), 2020.
 * **PC member**, ["Ubiquitous Privacy: Research and Design for Mobile and IoT Platforms" - The Networked Privacy Workshop at CSCW 2019](https://privacydesigncscw2019.wordpress.com/).
 * **PC member**, The 4th European Workshop on Usable Security: [2020](https://eusec20.cs.uchicago.edu/) and [2019](https://eusec.cs.uchicago.edu/).
