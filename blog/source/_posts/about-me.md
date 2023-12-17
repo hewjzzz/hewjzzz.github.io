@@ -41,7 +41,10 @@ __I am on the academic job market this year, looking for tenure-track faculty po
 * <venue>[PETS 2024]</venue> **Contextualizing Interpersonal Data Sharing in Smart Homes** [Paper forthcoming]
     __**Weijia He**__, Nathan Reitinger, Atheer Almogbil, Yi-Shyuan Chiang, Timothy Pierson, David Kotz.
     *Proceedings on Privacy Enhancing Technologies Symposium (PETS 2024). Bristol, UK, July 2024.*
-* <venue>[WPES 2023]</venue> **The HandyTech's Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**
+* <venue>[HotMobile 2024]</venue> **Challenges and Opportunities in Onboarding Smart-Home Devices** [Paper forthcoming]
+    Chixiang Wang, Liam Cassidy, __**Weijia He**__, Timothy Pierson, David Kotz.
+    *International Workshop on Mobile Computing Systems and Applications (HotMobile 2024). San Diego, CA, February 2024.*
+* <venue>[WPES 2023]</venue> [**The HandyTech's Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**](/papers/wpes23.pdf)
     Denise Anthony, Carl A. Gunter, __**Weijia He**__, Mounib Khanafer, Susan Landau, Ravindra Mangar, Nathan Reitinger.
     *Workshop on Privacy in the Electronic Society (WPES 2023). Copenhagen, Denmark, November, 2023.*
 * <venue>[EuroS&P 2021]</venue> [**SoK: Context Sensing for Access Control in the Adversarial Home IoT**](/papers/eurosp21-sok.pdf)
