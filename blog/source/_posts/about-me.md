@@ -30,10 +30,10 @@ __I am on the academic job market this year, looking for tenure-track faculty po
 # [Education](#Education)
 
 * **University of Chicago (2017-2022)**
-    * Ph.D. of Computer Science (2022)
-    * M.S. of Computer Science (2020)
+    * Ph.D. in Computer Science (2022)
+    * M.S. in Computer Science (2020)
 * **Shanghai Jiao Tong University (2013-2017)**
-    * B.Eng. of Cybersecurity
+    * B.Eng. in Cybersecurity
 
 ---
 
