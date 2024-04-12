@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/my-profile.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Weijia He (何唯嘉)'
-author_bio: 'Security Researcher in IoT (last updated: 12/17/2023)'
+author_bio: 'Security Researcher in IoT (last updated: 4/12/2024)'
 
 since: 2020
 
@@ -51,8 +51,8 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV(2023.12).pdf
-  description: CV(2023.12)
+  dir: /attaches/CV(2024.4).pdf
+  description: CV(2024.4)
 
 # Box-shadow
 # display box-shadow on page or not

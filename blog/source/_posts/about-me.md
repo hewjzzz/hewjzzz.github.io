@@ -14,10 +14,6 @@ Before that, I obtained my Ph.D. degree of Computer Science at University of Chi
 
 My main research interests relate to security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (USENIX Security 2018, PETS 2024) and sensing techniques (EuroS&P 2021). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
 
-
-
-__I am on the academic job market this year, looking for tenure-track faculty positions. If you are interested in talking with me, please don't hesitate to send me an email. :)__
-
 ---
 
 # [Employment](#Employment)
@@ -39,10 +35,13 @@ __I am on the academic job market this year, looking for tenure-track faculty po
 
 # [Publications](#Publications)
 
-* <venue>[PETS 2024]</venue> **Contextualizing Interpersonal Data Sharing in Smart Homes** [Paper forthcoming]
+* <venue>[EuroS&P 2024]</venue> **Can Allowlists Capture the Variability of Home IoT Device Network Behavior?** [Paper forthcoming]
+    __**Weijia He**__, Kevin Bryson, Ricardo Calderon, Vijay Prakash, Nick Feamster, Danny Yuxing Huang, Blase Ur.
+    *Proceedings of the 9th IEEE European Symposium on Security and Privacy (EuroS&P 2024). Vienna, Austria, July 2024.*
+* <venue>[PETS 2024]</venue> [**Contextualizing Interpersonal Data Sharing in Smart Homes**](/papers/popets24.pdf)
     __**Weijia He**__, Nathan Reitinger, Atheer Almogbil, Yi-Shyuan Chiang, Timothy Pierson, David Kotz.
     *Proceedings on Privacy Enhancing Technologies Symposium (PETS 2024). Bristol, UK, July 2024.*
-* <venue>[HotMobile 2024]</venue> **Challenges and Opportunities in Onboarding Smart-Home Devices** [Paper forthcoming]
+* <venue>[HotMobile 2024]</venue> [**Challenges and Opportunities in Onboarding Smart-Home Devices**]((/papers/hotemobile24.pdf))
     Chixiang Wang, Liam Cassidy, __**Weijia He**__, Timothy Pierson, David Kotz.
     *International Workshop on Mobile Computing Systems and Applications (HotMobile 2024). San Diego, CA, February 2024.*
 * <venue>[WPES 2023]</venue> [**The HandyTech's Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**](/papers/wpes23.pdf)
@@ -74,6 +73,7 @@ __I am on the academic job market this year, looking for tenure-track faculty po
 
 # [Service](#Service)
 
+* **PC Member**, ACM Conference on Computer and Communications Security (CCS): [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
 * **PC Member**, The Privacy Enhancing Technologies Symposium: [2024](https://petsymposium.org/cfp24.php) and [2023](https://petsymposium.org/cfp23.php).
 * **Publication Chair**, The Privacy Enhancing Technologies Symposium: [2023](https://petsymposium.org/cfp23.php) and [2022](https://www.petsymposium.org/cfp22.php).
 * **PC Member**, Workshop on Security and Privacy in Standardized IoT (SDIoTSec): [2024](https://www.ndss-symposium.org/ndss2024/co-located-events/sdiotsec/leadership/)
