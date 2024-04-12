@@ -41,7 +41,7 @@ My main research interests relate to security and privacy issues in ubiquitous c
 * <venue>[PETS 2024]</venue> [**Contextualizing Interpersonal Data Sharing in Smart Homes**](/papers/popets24.pdf)
     __**Weijia He**__, Nathan Reitinger, Atheer Almogbil, Yi-Shyuan Chiang, Timothy Pierson, David Kotz.
     *Proceedings on Privacy Enhancing Technologies Symposium (PETS 2024). Bristol, UK, July 2024.*
-* <venue>[HotMobile 2024]</venue> [**Challenges and Opportunities in Onboarding Smart-Home Devices**]((/papers/hotemobile24.pdf))
+* <venue>[HotMobile 2024]</venue> [**Challenges and Opportunities in Onboarding Smart-Home Devices**](/papers/hotemobile24.pdf)
     Chixiang Wang, Liam Cassidy, __**Weijia He**__, Timothy Pierson, David Kotz.
     *International Workshop on Mobile Computing Systems and Applications (HotMobile 2024). San Diego, CA, February 2024.*
 * <venue>[WPES 2023]</venue> [**The HandyTech's Coming Between 1 and 4: Privacy Opportunities and Challenges for the IoT Handyperson**](/papers/wpes23.pdf)
