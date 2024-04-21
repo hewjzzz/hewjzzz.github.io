@@ -12,8 +12,8 @@ since: 2020
 # 可以选择外链或其他页面
 menu:
   About: /
-  Publications: /publications
-  Teaching: /teaching
+  Publications: /publications/
+  Teaching: /teaching/
 
 # flink picture will load if avator link calls on error
 loading_bg:
