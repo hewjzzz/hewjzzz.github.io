@@ -1,3 +1,16 @@
+venue {
+  color: #fff;
+  background: #7fc7d9;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 5px;
+  text-align: center;
+}
+highlight {
+  color: #e57c23;
+  font-style: italic;
+  font-weight: bold;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
