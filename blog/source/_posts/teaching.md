@@ -1,8 +1,8 @@
 ---
-permalink: /teaching
+permalink: /teaching/
 ---
 
-# Teaching Experiences
+## Teaching Experiences
 
 * **Lab Coordinator** for [*Data Science Institute Summer Lab, 2022*](https://datascience.uchicago.edu/engage/summerlab/)
 * **Instructor** for *Introduction to Computer Science (CMSC 15100): 2021*

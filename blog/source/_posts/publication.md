@@ -1,8 +1,8 @@
 ---
-permalink: /publications
+permalink: /publications/
 ---
 
-# Publications
+## Publications
 
 <venue>EuroS&P 2024</venue> **Can Allowlists Capture the Variability of Home IoT Device Network Behavior?** [Paper forthcoming]
 __**Weijia He**__, Kevin Bryson, Ricardo Calderon, Vijay Prakash, Nick Feamster, Danny Yuxing Huang, Blase Ur.
@@ -26,7 +26,7 @@ __**Weijia He**__, Valerie Zhao, Olivia Morkved, Sabeeka Siddiqui, Earlence Fern
 
 <venue>IMWUT/UbiComp 2020</venue> [**Trace2TAP: Synthesizing Trigger-Action Programs From Traces of Behavior**](/papers/trace2tap.pdf)
 Lefan Zhang, __**Weijia He**__, Olivia Morkved, Valerie Zhao, Michael L. Littman, Shan Lu, Blase Ur.
-<small>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4, 3, Article 104 (IMWUT / UbiComp). Online, September 2020.*
+<small>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4, 3, Article 104 (IMWUT / UbiComp). Online, September 2020.</small>
 
 <venue>ICSE 2019</venue> [**AutoTap: Synthesizing and Repairing Trigger-Action Programs Using LTL Properties**](/papers/autotap.pdf)
 Lefan Zhang, __**Weijia He**__, Jesse Martinez, Noah Brackenbury, Shan Lu, Blase Ur
