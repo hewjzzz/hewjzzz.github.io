@@ -4,6 +4,10 @@ permalink: /publications/
 
 ## Publications
 
+<venue>SOUPS 2024</venue> **Well-intended but half-hearted: Hosts' consideration of guests' privacy using smart devices on rental properties** [Paper forthcoming]
+Sunyup Park, __**Weijia He**__, Elmira Deldari, Pardis Emami-Naeini, Danny Yuxing Huan, Jessica Vitak, Yaxing Yao, Michael Zimmer.
+<small>Proceedings of the 20th Symposium on Usable Privacy and Security (SOUPS 2024). Philadelphia, PA, USA, August 2024.</small>
+
 <venue>EuroS&P 2024</venue> **Can Allowlists Capture the Variability of Home IoT Device Network Behavior?** [Paper forthcoming]
 __**Weijia He**__, Kevin Bryson, Ricardo Calderon, Vijay Prakash, Nick Feamster, Danny Yuxing Huang, Blase Ur.
 <small>Proceedings of the 9th IEEE European Symposium on Security and Privacy (EuroS&P 2024). Vienna, Austria, July 2024.</small>
