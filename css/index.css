@@ -1,3 +1,19 @@
+venue {
+  color: #fff;
+  background: #7fc7d9;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 5px;
+  text-align: center;
+  margin-right: 3px;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+highlight {
+  color: #e57c23;
+  font-style: italic;
+  font-weight: bold;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
@@ -534,7 +550,7 @@ blockquote p {
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
+  max-width: 130px;
   border-radius: 50%;
 }
 .author-discrip {
