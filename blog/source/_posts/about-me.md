@@ -17,7 +17,7 @@ My main research interests relate to security and privacy issues in ubiquitous c
 
 ## Employment
 
-* **Dartmouth College (2022-Present)**
+* **Dartmouth College (2022-2024)**
     * Postdoctoral researcher
 
 ---
@@ -34,6 +34,7 @@ My main research interests relate to security and privacy issues in ubiquitous c
 
 ## Service
 
+* **PC Member**, IEEE Symposium on Security and Privacy (Oakland): [2025](https://www.ieee-security.org/TC/SP2025/index.html)
 * **PC Member**, ACM Conference on Computer and Communications Security (CCS): [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
 * **PC Member**, The Privacy Enhancing Technologies Symposium (PETS): [2024](https://petsymposium.org/cfp24.php) and [2023](https://petsymposium.org/cfp23.php).
 * **Publication Chair**, The Privacy Enhancing Technologies Symposium (PETS): [2023](https://petsymposium.org/cfp23.php) and [2022](https://www.petsymposium.org/cfp22.php).
