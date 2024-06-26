@@ -8,13 +8,17 @@ permalink: /publications/
 Sunyup Park, __**Weijia He**__, Elmira Deldari, Pardis Emami-Naeini, Danny Yuxing Huan, Jessica Vitak, Yaxing Yao, Michael Zimmer.
 <small>Proceedings of the 20th Symposium on Usable Privacy and Security (SOUPS 2024). Philadelphia, PA, USA, August 2024.</small>
 
-<venue>EuroS&P 2024</venue> **Can Allowlists Capture the Variability of Home IoT Device Network Behavior?** [Paper forthcoming]
+<venue>EuroS&P 2024</venue> [**Can Allowlists Capture the Variability of Home IoT Device Network Behavior?**](/papers/eurosp24.pdf)
 __**Weijia He**__, Kevin Bryson, Ricardo Calderon, Vijay Prakash, Nick Feamster, Danny Yuxing Huang, Blase Ur.
 <small>Proceedings of the 9th IEEE European Symposium on Security and Privacy (EuroS&P 2024). Vienna, Austria, July 2024.</small>
 
 <venue>PETS 2024</venue> [**Contextualizing Interpersonal Data Sharing in Smart Homes**](/papers/popets24.pdf)
 __**Weijia He**__, Nathan Reitinger, Atheer Almogbil, Yi-Shyuan Chiang, Timothy Pierson, David Kotz.
 <small>Proceedings on Privacy Enhancing Technologies Symposium (PETS 2024). Bristol, UK, July 2024.</small>
+
+<venue>SafeThings 2024</venue> [**Device Discovery in the Smart Home Environment**](/papers/safethings24.pdf)
+Mounib Khanafer, Logan Kostick, Chixiang Wang, Wondimu Zegeye, __**Weijia He**__, Berkay Kaplan, Nurzaman Ahmed, David Kotz, Timothy J. Pierson
+<small>Proceedings of the IEEE Workshop on the Internet of Safe Things (SafeThings 2024). San Francisco, CA, May 2024.</small>
 
 <venue>HotMobile 2024</venue> [**Challenges and Opportunities in Onboarding Smart-Home Devices**](/papers/hotemobile24.pdf)
 Chixiang Wang, Liam Cassidy, __**Weijia He**__, Timothy Pierson, David Kotz.
@@ -34,7 +38,7 @@ Lefan Zhang, __**Weijia He**__, Olivia Morkved, Valerie Zhao, Michael L. Littman
 
 <venue>ICSE 2019</venue> [**AutoTap: Synthesizing and Repairing Trigger-Action Programs Using LTL Properties**](/papers/autotap.pdf)
 Lefan Zhang, __**Weijia He**__, Jesse Martinez, Noah Brackenbury, Shan Lu, Blase Ur
-<small>Proceedings of the 41st ACM/IEEE International Conference on Software Engineering (ICSE). Montreal, QC, Canada, May 2019.</small>
+<small>Proceedings of the 41st ACM/IEEE International Conference on Software Engineering (ICSE 2019). Montreal, QC, Canada, May 2019.</small>
 
 <venue>CHI 2019</venue> [**How Users Interpret Bugs in Trigger-Action Programming**](/papers/chi19-ifttt-cameraready.pdf)
 Will Brackenbury, Abhimanyu Deora, Jillian Ritchey, Jason Vallee, __**Weijia He**__, Guan Wang, Michael L. Littman, Blase Ur
@@ -42,7 +46,7 @@ Will Brackenbury, Abhimanyu Deora, Jillian Ritchey, Jason Vallee, __**Weijia He*
 
 <venue>SafeThings 2019</venue> [**When Smart Devices Are Stupid: Negative Experiences Using Home Smart Devices**](/papers/safethings19-bugs.pdf)
 __**Weijia He**__, Jesse Martinez, Roshni Padhi, Lefan Zhang, Blase Ur. 
-<small>Proceedings of the IEEE Workshop on the Internet of Safe Things. San Francisco, CA, May 2019.</small>
+<small>Proceedings of the IEEE Workshop on the Internet of Safe Things (SafeThings 2019). San Francisco, CA, May 2019.</small>
 
 <venue>USENIX Security 2018</venue> [**Rethinking Access Control and Authentication for the Home Internet of Things (IoT)**](/papers/usenixsec18.pdf)
 __**Weijia He**__, Maximilian Golla, Roshni Padhi, Jordan Ofek, Markus Dürmuth, Earlence Fernandes, Blase Ur

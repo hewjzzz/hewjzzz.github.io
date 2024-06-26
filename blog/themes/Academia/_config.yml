@@ -1,9 +1,9 @@
 favicon: /img/favicon.png
 # Change to your profile picture
-avatar: /img/my-profile.jpg
+avatar: /img/my-profile-2.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Weijia He (何唯嘉)'
-author_bio: 'Security Researcher in IoT (last updated: 6/18/2024)'
+author_bio: 'Security Researcher in IoT (last updated: 6/26/2024)'
 
 since: 2020
 
