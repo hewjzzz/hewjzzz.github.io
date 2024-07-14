@@ -13,7 +13,7 @@ I am Weijia, a Lecturer/Assistant professor in the School of ECS at the Universi
 Before joining the University of Southampton, I was a postdoctoral researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/).
 I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/), and my B.Eng. in Cybersecurity from Shanghai Jiao Tong University in 2017.
 
-<highlight>UPDATE: I am looking for prospective Ph.D. students to join me in 2025. I also always welcome master students or undergrads who would like to get a taste of what research is like. If my research sounds like something you would love to explore more, feel free to drop me an email.</highlight>
+<highlight>I am looking for prospective Ph.D. students to join me in 2025. I also welcome master students or undergrads who would like to get a taste of what research is like. If my research sounds like something you would love to explore more, feel free to drop me an email.</highlight>
 
 ---
 
