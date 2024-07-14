@@ -6,17 +6,21 @@ academia: true
 
 ## About Me
 
-I am a Postdoctoral Researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/).
-Before that, I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/). I received my B.Eng. in Cybersecurity from Shanghai Jiao Tong University in 2017.
+Hello to whoever steps on this page :)
 
-My main research interests relate to security and privacy issues in ubiquitous computing systems. I studied contextual access control systems in smart homes in terms of both users' mental models (USENIX Security 2018, PETS 2024) and sensing techniques (EuroS&P 2021). My recent project is around network traffic analysis for smart home devices. Outside smart homes, I am also generally interested in any IoT systems (or CPS). It is exciting to think about all the technologies that might have a physical impact in one's daily life and how we can make them more secure. 
+I am Weijia, a Lecturer/Assistant professor in the School of ECS at the University of Southampton. I mainly work on human-centred security and privacy research, often with a focus on ubiquitous computing systems. As a believer that technology is the closest form of magic we can find in the real world, I always feel excited about how computing systems can impact the physical world and how we can utilize this magic to better support people's lives. I have done loads of security and privacy research on home IoT devices, and I am looking forward to doing more in other ubiquitous computing systems (e.g., AR/VR, smart environment, etc.)
 
-<highlight>UPDATE: I am glad to announce that I will join [the School of Electronics and Computer Science (ECS) at the University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science), UK, as a Lecturer (Assistant Professor), starting in August, 2024.</highlight>
+Before joining the University of Southampton, I was a postdoctoral researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/).
+I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/), and my B.Eng. in Cybersecurity from Shanghai Jiao Tong University in 2017.
+
+<highlight>UPDATE: I am looking for prospective Ph.D. students to join me in 2025. I also always welcome master students or undergrads who would like to get a taste of what research is like. If my research sounds like something you would love to explore more, feel free to drop me an email.</highlight>
 
 ---
 
 ## Employment
 
+* **University of Southampton (2024-Present)**
+    * Lecturer/Assistant professor
 * **Dartmouth College (2022-2024)**
     * Postdoctoral researcher
 
