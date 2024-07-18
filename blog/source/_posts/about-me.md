@@ -8,10 +8,9 @@ academia: true
 
 Hello to whoever steps on this page :)
 
-I am Weijia, a Lecturer/Assistant professor in the School of ECS at the University of Southampton. I mainly work on human-centred security and privacy research, often with a focus on ubiquitous computing systems. As a believer that technology is the closest form of magic we can find in the real world, I always feel excited about how computing systems can impact the physical world and how we can utilize this magic to better support people's lives. I have done loads of security and privacy research on home IoT devices, and I am looking forward to doing more in other ubiquitous computing systems (e.g., AR/VR, smart environment, etc.)
+I am Weijia, an Assistant professor (Lecturer) in the School of ECS at the University of Southampton. I mainly work on human-centred security and privacy research, often with a focus on ubiquitous computing systems. As a believer that technology is the closest form of magic we can find in the real world, I always feel excited about how computing systems can impact the physical world and how we can utilize this magic to better support people's lives. I have done loads of security and privacy research on home IoT devices, and I am looking forward to doing more in other ubiquitous computing systems (e.g., AR/VR, smart environment, etc.)
 
-Before joining the University of Southampton, I was a postdoctoral researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/).
-I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/), and my B.Eng. in Cybersecurity from Shanghai Jiao Tong University in 2017.
+Before joining the University of Southampton, I was a postdoctoral researcher at Dartmouth College, working with Professor [David Kotz](https://www.cs.dartmouth.edu/~kotz/) on the [SPLICE project](https://splice-project.org/). I obtained my Ph.D. degree of Computer Science at University of Chicago, advised by Professor [Blase Ur](https://www.blaseur.com/), and my B.Eng. in Cybersecurity from Shanghai Jiao Tong University in 2017.
 
 <highlight>I am looking for prospective Ph.D. students to join me in 2025. I also welcome master students or undergrads who would like to get a taste of what research is like. If my research sounds like something you would love to explore more, feel free to drop me an email.</highlight>
 
