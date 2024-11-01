@@ -4,6 +4,10 @@ permalink: /publications/
 
 ## Publications
 
+<venue>IMWUT/UbiComp 2024</venue> Moat: Adaptive Inside/Outside Detection System for Smart Homes [Paper forthcoming]
+Chixiang Wang, __**Weijia He**__, Timothy Pierson, and David Kotz
+<small>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 4. </small>
+
 <venue>SOUPS 2024</venue> [**Well-intended but half-hearted: Hosts' consideration of guests' privacy using smart devices on rental properties**](/papers/soups2024.pdf)
 Sunyup Park, __**Weijia He**__, Elmira Deldari, Pardis Emami-Naeini, Danny Yuxing Huan, Jessica Vitak, Yaxing Yao, Michael Zimmer.
 <small>Proceedings of the 20th Symposium on Usable Privacy and Security (SOUPS 2024). Philadelphia, PA, USA, August 2024.</small>
