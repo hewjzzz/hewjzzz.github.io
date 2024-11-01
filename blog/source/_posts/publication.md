@@ -4,7 +4,7 @@ permalink: /publications/
 
 ## Publications
 
-<venue>IMWUT/UbiComp 2024</venue> Moat: Adaptive Inside/Outside Detection System for Smart Homes [Paper forthcoming]
+<venue>IMWUT/UbiComp 2024</venue> **Moat: Adaptive Inside/Outside Detection System for Smart Homes** [Paper forthcoming]
 Chixiang Wang, __**Weijia He**__, Timothy Pierson, and David Kotz
 <small>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 4. </small>
 
