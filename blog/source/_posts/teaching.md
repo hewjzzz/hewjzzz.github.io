@@ -4,11 +4,11 @@ permalink: /teaching/
 
 ## Teaching Experiences
 
-### University of Southampton
+#### University of Southampton
 
 * **Instructor** for *Principles of Cyber Security (COMP 2216): 2025*
 
-### University of Chicago
+#### University of Chicago
 
 * **Lab Coordinator** for [*Data Science Institute Summer Lab, 2022*](https://datascience.uchicago.edu/engage/summerlab/)
 * **Instructor** for *Introduction to Computer Science (CMSC 15100): 2021*
