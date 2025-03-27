@@ -4,9 +4,13 @@ permalink: /publications/
 
 ## Publications
 
+<venue>CHI 2025</venue> [**How Humans Communicate Programming Tasks in Natural Language and Implications For End-User Programming with LLMs**](/papers/chi25.pdf)
+Madison Pickering, Helena Williams, Alison Gan, __**Weijia He**__, Hyojae Park, Francisco Piedrahita Velez, Michael L. Littman, Blase Ur
+<small>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Yokohama, Japan, April 2025.</small>
+
 <venue>IMWUT/UbiComp 2024</venue> [**Moat: Adaptive Inside/Outside Detection System for Smart Homes**](/papers/imwut24.pdf)
 Chixiang Wang, __**Weijia He**__, Timothy Pierson, and David Kotz
-<small>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 4. </small>
+<small>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 4. Espoo, Finland, October 2025.</small>
 
 <venue>SOUPS 2024</venue> [**Well-intended but half-hearted: Hosts' consideration of guests' privacy using smart devices on rental properties**](/papers/soups2024.pdf)
 Sunyup Park, __**Weijia He**__, Elmira Deldari, Pardis Emami-Naeini, Danny Yuxing Huan, Jessica Vitak, Yaxing Yao, Michael Zimmer.
