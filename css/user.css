@@ -1,6 +1,17 @@
 venue {
   color: #fff;
-  background: #7fc7d9;
+  background: #82c0cc;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 5px;
+  text-align: center;
+  margin-right: 3px;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+award {
+  color: #fff;
+  background: #ffa62b;
   font-weight: bold;
   padding: 4px 8px;
   border-radius: 5px;
@@ -11,6 +22,5 @@ venue {
 }
 highlight {
   color: #e57c23;
-  font-style: italic;
   font-weight: bold;
 }
