@@ -38,7 +38,7 @@ Before joining the University of Southampton, I was a postdoctoral researcher at
 ## Service
 
 * **PC Member**, IEEE Symposium on Security and Privacy (Oakland): [2025](https://www.ieee-security.org/TC/SP2025/index.html)
-* **PC Member**, ACM Conference on Computer and Communications Security (CCS): [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
+* **PC Member**, ACM Conference on Computer and Communications Security (CCS): [2025](https://www.sigsac.org/ccs/CCS2025/program-committee/), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
 * **PC Member**, The Privacy Enhancing Technologies Symposium (PETS): [2024](https://petsymposium.org/cfp24.php) and [2023](https://petsymposium.org/cfp23.php).
 * **Publication Chair**, The Privacy Enhancing Technologies Symposium (PETS): [2023](https://petsymposium.org/cfp23.php) and [2022](https://www.petsymposium.org/cfp22.php).
 * **PC Member**, Workshop on Security and Privacy in Standardized IoT (SDIoTSec): [2024](https://www.ndss-symposium.org/ndss2024/co-located-events/sdiotsec/leadership/)
